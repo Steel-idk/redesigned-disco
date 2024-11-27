@@ -1,0 +1,135 @@
+[19:01:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:01:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:01:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:01:29] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[19:01:29] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:01:29] [main/INFO] [FML]: Searching /workspaces/redesigned-disco/servidor_minecraft/./mods for mods
+[19:01:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:01:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:01:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:01:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:01:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:01:30] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:01:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:01:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:01:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:01:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:01:31] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:01:33] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[19:01:33] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:01:33] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:01:34] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:01:34] [Server thread/INFO] [FML]: Config directory created successfully
+[19:01:34] [Server thread/INFO] [FML]: Searching /workspaces/redesigned-disco/servidor_minecraft/./mods for mods
+[19:01:34] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[19:01:34] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:01:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[19:01:34] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[19:01:35] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:01:35] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[19:01:35] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:01:35] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:01:35] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:01:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:01:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:01:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:01:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:01:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:01:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:01:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:01:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:01:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:01:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:01:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:01:35] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[19:01:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:01:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[19:01:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:01:35] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:01:35] [Server thread/INFO] [FML]: Applying holder lookups
+[19:01:35] [Server thread/INFO] [FML]: Holder lookups applied
+[19:01:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:01:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:01:35] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[19:01:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[19:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:01:35] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@58cdc3a6)
+[19:01:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[19:01:36] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@58cdc3a6)
+[19:01:36] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@58cdc3a6)
+[19:01:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:01:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[19:01:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
+[19:01:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 30%
+[19:01:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 48%
+[19:01:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
+[19:01:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 85%
+[19:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (7.817s)! For help, type "help" or "?"
+[19:01:43] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:01:43] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:08:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[19:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[19:08:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 10 (/help <page>) ---
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /advancement <grant|revoke|test> <player>
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban <name> [reason ...]
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /ban-ip <address|name> [reason ...]
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /banlist [ips|players]
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /blockdata <x> <y> <z> <dataTag>
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clear [player] [item] [data] [maxCount] [dataTag]
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 2 of 10 (/help <page>) ---
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /debug <start|stop>
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /defaultgamemode <mode>
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /deop <player>
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /difficulty <new difficulty>
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /effect <player> <effect> [seconds] [amplifier] [hideParticles] OR /effect <player> clear
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /enchant <player> <enchantment ID> [level]
+[19:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /entitydata <entity> <dataTag>
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 3 of 10 (/help <page>) ---
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /execute <entity> <x> <y> <z> <command> OR /execute <entity> <x> <y> <z> detect <x> <y> <z> <block> <dataValue|-1|state|*> <command>
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /fill <x1> <y1> <z1> <x2> <y2> <z2> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Use /forge <subcommand>
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /function <name> [if <selector>|unless <selector>]
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /gamemode <mode> [player]
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /gamerule <rule name> [value]
+[19:09:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /give <player> <item> [amount] [data] [dataTag]
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 4 of 10 (/help <page>) ---
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /help [page|command name]
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /kick <player> [reason ...]
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /kill [player|entity]
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /list
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /locate <feature>
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /me <action ...>
+[19:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /op <player>
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 5 of 10 (/help <page>) ---
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /pardon <name>
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /pardon-ip <address>
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /particle <name> <x> <y> <z> <xd> <yd> <zd> <speed> [count] [mode] [player] [params]
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /playsound <sound> <source> <player> [x] [y] [z] [volume] [pitch] [minimumVolume]
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /recipe <give|take> [player] <name|*>
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /reload
+[19:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /replaceitem <entity|block> ...
+[19:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /reload
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 6 of 10 (/help <page>) ---
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /save-all [flush]
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /save-off
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /save-on
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /say <message ...>
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /scoreboard <objectives|players|teams> ...
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /seed
+[19:11:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /setblock <x> <y> <z> <block> [dataValue|state] [oldBlockHandling] [dataTag]
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 7 of 10 (/help <page>) ---
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /setidletimeout <minutes>
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /setworldspawn [<x> <y> <z>]
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /spawnpoint [player] [<x> <y> <z>]
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /spreadplayers <x> <z> <spreadDistance> <maxRange> <respectTeams true|false> <player ...>
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /stats <entity|block> ...
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /stop
+[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: /stopsound <player> [source] [sound]
